@@ -12,8 +12,8 @@ I am a passionate Data Scientist with over three years of experience in the fiel
 
 ### My Skills
 - **Programming Languages**: Python, SQL (PostgreSQL, MySQL)
-- **Data Analysis & Visualization**: pandas, numpy, statsmodels, matplotlib, seaborn, Power BI
-- **Machine Learning**: scikit-learn, CatBoost, NLP (NLTK, ruBERT), deep learning frameworks (PyTorch, Keras)
+- **Data Analysis & Visualization**: pandas, numpy, statsmodels, scipy, matplotlib, seaborn, Power BI
+- **Machine Learning**: Scikit-learn, CatBoost, NLP (NLTK, ruBERT), deep learning frameworks (PyTorch, Keras)
 - **Tools & Technologies**: Git, Yandex DataLens, SAS, ad-hoc analytics
 - **Project Experience**: Creating and validating financial models, developing NLP-based classification systems, forecasting demand with time series analysis.
 
