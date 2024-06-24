@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on startups, innovative projects in Data Science and Machine Learning;
 - 🤔 I'm conducting research to predict energy consumption in the global market using economic data;
 - 💬 Ask me about machine learning, data analysis, SQL, Python, and my projects in NLP and predictive modeling;
-- 📫 How to reach me: @grinef, grinef00@yandex.ru, https://hh.ru/resume/78ae9316ff0c8326f70039ed1f574c336f7031
+- 📫 How to reach me: [@grinef.](https://t.me/grinef)
 
 ### About Me
 I am a passionate Data Scientist with over two years of experience in the field, specializing in machine learning, data analysis, and algorithm validation. My professional journey includes significant roles in banking, government, and e-commerce sectors, where I've developed and validated predictive models, performed in-depth data analysis, and contributed to improving business decision-making processes.
@@ -17,8 +17,15 @@ I am a passionate Data Scientist with over two years of experience in the field,
 - **Tools & Technologies**: Git, Yandex DataLens, SAS, ad-hoc analytics
 - **Project Experience**: Creating and validating financial models, developing NLP-based classification systems, forecasting with time series analysis.
 
+### Education
+- **Master's in Management** (2025 expected)  
+  Russian Gubkin State University, Moscow
+- **Bachelor's in Economics** (2022)  
+  Russian Gubkin State University, Moscow
+- **Diploma of Professional Retraining in Data Science Plus (16 month long programm)** (2023)  
+  Yandex Practicum
 
-### My Project Map (without work projects):
+### My Project Map (only public projects):
 |Number|Project Name|Short description|Technologies|
 |:-:|:-|:-|:-|
 |1|Customer_churn_prediction_telecom|classification|classic ML|
