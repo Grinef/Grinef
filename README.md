@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Карта проектов:
-|Название проекта|Тип проекта|Технологии|
+|Project Name|Type|Technologies|
 |:-|:-:|:-:|
 |Customer_churn_prediction_telecom|classification|classic ML
 |Age_estimation_project|classification|Computer Vision|
