@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at one of the largest banks in Russia, holding a Senior Data Scientist position;
 - 🌱 I’m currently pursuing a Master's degree in Management at the Russian Gubkin State University;
-- 👯 I’m looking to collaborate on startups, interesting ideas, and innovative projects in Data Science and Machine Learning;
+- 👯 I’m looking to collaborate on startups, innovative projects in Data Science and Machine Learning;
 - 🤔 I'm conducting research to predict energy consumption in the global market using economic data;
 - 💬 Ask me about machine learning, data analysis, SQL, Python, and my projects in NLP and predictive modeling;
 - 📫 How to reach me: @grinef, grinef00@yandex.ru, https://hh.ru/resume/78ae9316ff0c8326f70039ed1f574c336f7031
