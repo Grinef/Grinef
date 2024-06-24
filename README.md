@@ -8,7 +8,7 @@
 - 📫 How to reach me: [@grinef.](https://t.me/grinef)
 
 ### About Me
-I am a passionate Data Scientist with over two years of experience in the field, specializing in machine learning, data analysis, and algorithm validation. My professional journey includes significant roles in banking, government, and e-commerce sectors, where I've developed and validated predictive models, performed in-depth data analysis, and contributed to improving business decision-making processes.
+I am a passionate Data Scientist with over three years of experience in the field, specializing in machine learning, data analysis, and algorithm validation. My professional journey includes significant roles in banking, government, and e-commerce sectors, where I've developed and validated predictive models, performed in-depth data analysis, and contributed to improving business decision-making processes.
 
 ### My Skills
 - **Programming Languages**: Python, SQL (PostgreSQL, MySQL)
