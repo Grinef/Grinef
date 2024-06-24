@@ -29,6 +29,7 @@
 |15|Movies_review|classification|Data Analyze project|
 |16|CEFR_subtitle_predict|classification|NLP+classic ML|
 |17|Car_price_prediction-Kaggle |classification|classic ML|
+|18|Search_photo_by_query|classification|NLP+Computer Vision|
 
 
 
