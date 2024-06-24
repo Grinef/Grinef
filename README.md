@@ -22,7 +22,7 @@ I am a passionate Data Scientist with over two years of experience in the field,
   Russian Gubkin State University, Moscow
 - **Bachelor's in Economics** (2022)  
   Russian Gubkin State University, Moscow
-- **Diploma of Professional Retraining in Data Science Plus (16 month long programm)** (2023)  
+- **Diploma of Professional Retraining in Data Science Plus (16-month program)** (2023)  
   Yandex Practicum
 
 ### My Project Map (only public projects):
