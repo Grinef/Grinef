@@ -15,7 +15,7 @@ I am a passionate Data Scientist with over two years of experience in the field,
 - **Data Analysis & Visualization**: pandas, numpy, statsmodels, matplotlib, seaborn, Power BI
 - **Machine Learning**: scikit-learn, CatBoost, NLP (NLTK, ruBERT), deep learning frameworks (PyTorch, Keras)
 - **Tools & Technologies**: Git, Yandex DataLens, SAS, ad-hoc analytics
-- **Project Experience**: Creating and validating financial models, developing NLP-based classification systems, forecasting with time series analysis.
+- **Project Experience**: Creating and validating financial models, developing NLP-based classification systems, forecasting demand with time series analysis.
 
 ### Education
 - **Master's in Management** (2025 expected)  
