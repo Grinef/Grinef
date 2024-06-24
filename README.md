@@ -18,7 +18,7 @@ I am a passionate Data Scientist with over two years of experience in the field,
 - **Project Experience**: Creating and validating financial models, developing NLP-based classification systems, forecasting with time series analysis.
 
 
-### Project Map:
+### My Project Map (without work projects):
 |Number|Project Name|Short description|Technologies|
 |:-:|:-|:-|:-|
 |1|Customer_churn_prediction_telecom|classification|classic ML|
