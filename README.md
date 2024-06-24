@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### Карта проектов:
+|Название проекта|Тип проекта|Технологии|
+|:-|:-:|:-:|
+|Customer_churn_prediction_telecom|classification|classic ML
+|Age_estimation_project|classification|Computer Vision|
+
 <!--
 **Grinef/Grinef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
