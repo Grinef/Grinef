@@ -25,7 +25,7 @@ I am a passionate Data Scientist with over three years of experience in the fiel
 - **Diploma of Professional Retraining in Data Science Plus (16-month program)** (2023)  
   Yandex Practicum
 
-### My Project Map (only public projects):
+### My education Project Map (only public projects):
 |Number|Project Name|Technologies|Main Results
 |:-:|:-|:-|:-|
 |1|Customer_churn_prediction_telecom|classic ML|-|
