@@ -32,20 +32,16 @@ I am a passionate Data Scientist with over three years of experience in the fiel
 |2|Age_estimation_project|Computer Vision|-|-|
 |3|Car_price_prediction|classic ML|-|-|
 |4|Well_oil_selection|classic ML|-|-|
-|5|Estate_analyse|Data Analyze project|-|-|
-|6|Protect_personal_data|Linear Algebra|-|-|
-|7|California_housing_price_prediction|SPARK|-|-|
-|8|Customer_churn_prediction_banking|classic ML|-|-|
-|9|Taxi_order_prediction|Time series|-|-|
-|10|Hotel_booking_cancellation_prediction|classic ML|-|-|
-|11|Star_surface_temperature_prediction|classic ML|-|-|
-|12|StackOverflow_SQL_Analyze|SQL|-|-|
-|13|Toxic_Comments_Classification|classic ML|-|-|
-|14|Tarif_recomendation|classic ML|-|-|
-|15|Movies_review|Data Analyze project|-|-|
-|16|CEFR_subtitle_predict|NLP+classic ML|-|-|
-|17|Car_price_prediction-Kaggle |classic ML|-|-|
-|18|Search_photo_by_query|NLP+Computer Vision|-|-|
+|5|California_housing_price_prediction|SPARK|-|-|
+|6|Customer_churn_prediction_banking|classic ML|-|-|
+|7|Taxi_order_prediction|Time series|-|-|
+|8|Hotel_booking_cancellation_prediction|classic ML|-|-|
+|9|Star_surface_temperature_prediction|classic ML|-|-|
+|10|Toxic_Comments_Classification|classic ML|-|-|
+|11|Tarif_recomendation|classic ML|-|-|
+|12|CEFR_subtitle_predict|NLP+classic ML|-|-|
+|13|Car_price_prediction-Kaggle |classic ML|-|-|
+|14|Search_photo_by_query|NLP+Computer Vision|-|-|
 
 
 
