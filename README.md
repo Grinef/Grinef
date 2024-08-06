@@ -26,21 +26,21 @@ I am a passionate Data Scientist with over three years of experience in the fiel
   Yandex Practicum
 
 ### My education Projects Map (only public projects):
-|Number|Project Name|Technologies|Main Results|Project implementation date
+|Number|Project Name|Technologies|Type|Stack|Result
 |:-:|:-|:-|:-|:-|
-|1|Customer_churn_prediction_telecom|classic ML|-|-|
-|2|Age_estimation_project|Computer Vision|-|-|
-|3|Car_price_prediction|classic ML|-|-|
-|4|California_housing_price_prediction|SPARK|-|-|
-|5|Customer_churn_prediction_banking|classic ML|-|-|
-|6|Taxi_order_prediction|Time series|-|-|
-|7|Hotel_booking_cancellation_prediction|classic ML|-|-|
-|8|Star_surface_temperature_prediction|DL|-|-|
-|9|Toxic_Comments_Classification|NLP|-|-|
-|10|Tarif_recomendation|classic ML|-|-|
-|11|CEFR_subtitle_predict|NLP+classic ML|-|-|
-|12|Car_price_prediction-Kaggle |classic ML|-|-|
-|13|Search_photo_by_query|NLP+Computer Vision|-|-|
+|1|Customer_churn_prediction_telecom|classification|sklearn, keras|-|-|
+|2|Age_estimation_project|Computer Vision|-|-|-|
+|3|Car_price_prediction|classic ML|-|-|-|
+|4|California_housing_price_prediction|SPARK|-|-|-|
+|5|Customer_churn_prediction_banking|classic ML|-|-|-|
+|6|Taxi_order_prediction|Time series|-|-|-|
+|7|Hotel_booking_cancellation_prediction|classic ML|-|-|-|
+|8|Star_surface_temperature_prediction|-|DL|-|-|
+|9|Toxic_Comments_Classification|-|NLP|-|-|
+|10|Tarif_recomendation|classic ML|-|-|-|
+|11|CEFR_subtitle_predict|NLP+classic ML|-|-|-|
+|12|Car_price_prediction-Kaggle |classic ML|-|-|-|
+|13|Search_photo_by_query|NLP+Computer Vision|-|-|-|
 
 
 
