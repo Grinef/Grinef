@@ -26,8 +26,9 @@ I am a passionate Data Scientist with over three years of experience in the fiel
   Yandex Practicum
 
 ### My education Projects Map (only public projects):
+
 |Number|Project Name|Technologies|Type|Stack|Result
-|:-:|:-|:-|:-|:-|
+|:-:|:-|:-|:-|:-|:-|
 |1|Customer_churn_prediction_telecom|classification|sklearn, keras|-|-|
 |2|Age_estimation_project|Computer Vision|-|-|-|
 |3|Car_price_prediction|classic ML|-|-|-|
