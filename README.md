@@ -35,8 +35,8 @@ I am a passionate Data Scientist with over three years of experience in the fiel
 |5|Customer_churn_prediction_banking|classic ML|-|-|
 |6|Taxi_order_prediction|Time series|-|-|
 |7|Hotel_booking_cancellation_prediction|classic ML|-|-|
-|8|Star_surface_temperature_prediction|classic ML|-|-|
-|9|Toxic_Comments_Classification|classic ML|-|-|
+|8|Star_surface_temperature_prediction|DL|-|-|
+|9|Toxic_Comments_Classification|NLP|-|-|
 |10|Tarif_recomendation|classic ML|-|-|
 |11|CEFR_subtitle_predict|NLP+classic ML|-|-|
 |12|Car_price_prediction-Kaggle |classic ML|-|-|
