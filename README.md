@@ -28,20 +28,20 @@ I am a passionate Data Scientist with over three years of experience in the fiel
 ### My education Projects Map (only public projects):
 
 |Number|Project Name|Stack|Type|
-|:-:|:-|:-|:-|:-|:-|
+|:-:|:-|:-|:-|
 |1|Customer_churn_prediction_telecom|sklearn, keras|binary classification
-|2|Age_estimation_project|Computer Vision|-|-|-|
-|3|Car_price_prediction|classic ML|-|-|-|
-|4|California_housing_price_prediction|SPARK|-|-|-|
-|5|Customer_churn_prediction_banking|classic ML|-|-|-|
-|6|Taxi_order_prediction|Time series|-|-|-|
-|7|Hotel_booking_cancellation_prediction|classic ML|-|-|-|
-|8|Star_surface_temperature_prediction|-|DL|-|-|
-|9|Toxic_Comments_Classification|-|NLP|-|-|
-|10|Tarif_recomendation|classic ML|-|-|-|
-|11|CEFR_subtitle_predict|NLP+classic ML|-|-|-|
-|12|Car_price_prediction-Kaggle |classic ML|-|-|-|
-|13|Search_photo_by_query|NLP+Computer Vision|-|-|-|
+|2|Age_estimation_project|Computer Vision|keras|regression|
+|3|Car_price_prediction|classic ML|-|-|
+|4|California_housing_price_prediction|SPARK|pyspark|regression|
+|5|Customer_churn_prediction_banking|classic ML|-|-|
+|6|Taxi_order_prediction|Time series|-|-|
+|7|Hotel_booking_cancellation_prediction|classic ML|-|-|
+|8|Star_surface_temperature_prediction|classic ML + DL|sklearn, torch|regression|
+|9|Toxic_Comments_Classification|NLP|-|-|
+|10|Tarif_recomendation|classic ML|-|-|
+|11|CEFR_subtitle_predict|NLP+classic ML|-|-|
+|12|Car_price_prediction-Kaggle|classic ML|-|-|
+|13|Search_photo_by_query|NLP+Computer Vision|transformers, Pytorch, sklearn|regression|
 
 
 
