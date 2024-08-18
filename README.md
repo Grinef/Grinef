@@ -27,9 +27,9 @@ I am a passionate Data Scientist with over three years of experience in the fiel
 
 ### My education Projects Map (only public projects):
 
-|Number|Project Name|Technologies|Type|Stack|Result
+|Number|Project Name|Stack|Type|
 |:-:|:-|:-|:-|:-|:-|
-|1|Customer_churn_prediction_telecom|sklearn, keras|binary classification|As a result of the development process, the XGBoost model was selected with the following hyperparameters: {"n_estimators": 54, "learning_rate": 0.1, "max_depth": 3}. The model achieved the following key metrics: ROC-AUC = 0.86 (above the required 0.85), Precision = 0.67, Accuracy = 0.81, Recall = 0.54, and F1 = 0.60. This indicates an effective and balanced model that demonstrates good accuracy and can be useful for making business decisions.
+|1|Customer_churn_prediction_telecom|sklearn, keras|binary classification
 |2|Age_estimation_project|Computer Vision|-|-|-|
 |3|Car_price_prediction|classic ML|-|-|-|
 |4|California_housing_price_prediction|SPARK|-|-|-|
