@@ -27,7 +27,7 @@ I am a passionate Data Scientist with over three years of experience in the fiel
 
 ### My education Projects Map (only public projects):
 
-|Number|Project Name|Type|Modulse|Purpose|
+|Number|Project Name|Stack|Type|
 |:-:|:-|:-|:-|:-|:-|
 |1|Customer_churn_prediction_telecom|sklearn, keras|binary classification
 |2|Age_estimation_project|Computer Vision|-|-|-|
