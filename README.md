@@ -29,19 +29,19 @@ I am a passionate Data Scientist with over three years of experience in the fiel
 
 |Number|Project Name|Technologies|Stack|Type|
 |:-:|:-|:-|:-|:-|
-|1|Customer_churn_prediction_telecom|sklearn, keras|binary classification
+|1|Customer_churn_prediction_telecom|sklearn, keras|binary classification|
 |2|Age_estimation_project|Computer Vision|keras|regression|
-|3|Car_price_prediction|classic ML|-|-|
+|3|Car_price_prediction|classic ML|sklearn, lightgbm|regression|
 |4|California_housing_price_prediction|SPARK|pyspark|regression|
-|5|Customer_churn_prediction_banking|classic ML|-|-|
-|6|Taxi_order_prediction|Time series|-|-|
-|7|Hotel_booking_cancellation_prediction|classic ML|-|-|
+|5|Customer_churn_prediction_banking|classic ML|sklearn, imblearn, scipy|binary classification|
+|6|Taxi_order_prediction|Time series|pytorch, sklearn, statsmodels, joblib|regrssion|
+|7|Hotel_booking_cancellation_prediction|classic ML|sklearn|binary classification|
 |8|Star_surface_temperature_prediction|classic ML + DL|sklearn, torch|regression|
-|9|Toxic_Comments_Classification|NLP|-|-|
-|10|Tarif_recomendation|classic ML|-|-|
-|11|CEFR_subtitle_predict|NLP+classic ML|-|-|
-|12|Car_price_prediction-Kaggle|classic ML|-|-|
-|13|Search_photo_by_query|NLP+Computer Vision|transformers, Pytorch, sklearn|regression|
+|9|Toxic_Comments_Classification|NLP|spacy, nltk, sklearn, transformers, catboost|binary classification|
+|10|Tarif_recomendation|classic ML|sklearn|binary classification|
+|11|CEFR_subtitle_predict|NLP+classic ML|nltk, sklearn, scipy|multi classification|
+|12|Car_price_prediction-Kaggle|classic ML|sklearn, lightgbm|regression|
+|13|Search_photo_by_query|NLP+Computer Vision|transformers, pytorch, sklearn|regression|
 
 
 
