@@ -11,11 +11,34 @@
 I am a passionate Data Scientist with over three years of experience in the field, specializing in machine learning, data analysis, and algorithm validation. My professional journey includes significant roles in banking, government, and e-commerce sectors, where I've developed and validated predictive models, performed in-depth data analysis, and contributed to improving business decision-making processes.
 
 ### My Skills
-- **Programming Languages**: Python, SQL (PostgreSQL, MySQL)
-- **Data Analysis & Visualization**: pandas, numpy, statsmodels, scipy, matplotlib, seaborn, Power BI
-- **Machine Learning**: Scikit-learn, CatBoost, NLP (NLTK, ruBERT), deep learning frameworks (PyTorch, Keras)
-- **Tools & Technologies**: Git, Yandex DataLens, SAS, ad-hoc analytics
-- **Project Experience**: Creating and validating financial models, developing NLP-based classification systems, forecasting demand with time series analysis.
+
+**Programming Languages:**
+- Python, SQL (PostgreSQL, MySQL)
+
+**Data Analysis & Visualization:**
+- pandas, numpy, statsmodels, scipy, matplotlib, seaborn, Power BI, Yandex DataLens
+- Experience in large-scale data analysis, ad-hoc analytics, and building comprehensive dashboards for business decision-making.
+
+**Machine Learning:**
+- **Classic ML**: Scikit-learn, CatBoost, LightGBM, imblearn
+- **Deep Learning**: PyTorch, Keras
+- **NLP**: NLTK, Spacy, ruBERT, transformers
+- Built and fine-tuned multi-class and binary classification models for text (toxic comments, tariff recommendations, CEFR level prediction), and image data (age estimation).
+- Developed and deployed time series forecasting models for demand prediction (taxi orders, product trends).
+- Extensive experience in both binary classification (churn prediction, cancellation prediction) and regression tasks (housing price prediction, car price prediction).
+
+**Big Data & Distributed Systems:**
+- Pyspark, Spark for large-scale data processing and model building, including projects like California Housing Price Prediction.
+
+**Tools & Technologies:**
+- Git, Yandex DataLens, SAS, SQLAlchemy, Joblib, MLflow
+- Version control with Git, experience with model tracking and experiment management using MLflow, and automation of workflows.
+
+**Project Experience:**
+- **Financial Models**: Building, validating, and fine-tuning financial models for banking risk analysis, pricing, reserve calculation, and bankruptcy prediction.
+- **NLP Systems**: Designed and implemented NLP-based classification systems using ruBERT and transformers for sentiment analysis, toxic comment detection, and text-to-image search.
+- **Demand Forecasting**: Developed time series forecasting models for demand prediction (taxi orders, marketplace product trends), leveraging PyTorch and statsmodels.
+- **Customer Analytics**: Led customer churn prediction projects in both telecom and banking sectors, applying data preprocessing, feature engineering, and model tuning to achieve high accuracy.
 
 ### Education
 - **Master's in Management** (2025 expected)  
