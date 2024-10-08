@@ -25,23 +25,24 @@ I am a passionate Data Scientist with over three years of experience in the fiel
 - **Diploma of Professional Retraining in Data Science Plus (16-month program)** (2023)  
   Yandex Practicum
 
+
 ### My Projects Map:
 
-|Number|Project Name|Technologies|Stack|Type|
-|:-:|:-|:-|:-|:-|
-|1|Customer_churn_prediction_telecom|sklearn, keras|binary classification|
-|2|Age_estimation_project|Computer Vision|keras|regression|
-|3|Car_price_prediction|classic ML|sklearn, lightgbm|regression|
-|4|California_housing_price_prediction|SPARK|pyspark|regression|
-|5|Customer_churn_prediction_banking|classic ML|sklearn, imblearn, scipy|binary classification|
-|6|Taxi_order_prediction|Time series|pytorch, sklearn, statsmodels, joblib|regrssion|
-|7|Hotel_booking_cancellation_prediction|classic ML|sklearn|binary classification|
-|8|Star_surface_temperature_prediction|classic ML + DL|sklearn, torch|regression|
-|9|Toxic_Comments_Classification|NLP|spacy, nltk, sklearn, transformers, catboost|binary classification|
-|10|Tarif_recomendation|classic ML|sklearn|binary classification|
-|11|CEFR_subtitle_predict|NLP+classic ML|nltk, sklearn, scipy|multi classification|
-|12|Car_price_prediction-Kaggle|classic ML|sklearn, lightgbm|regression|
-|13|Search_photo_by_query|NLP+Computer Vision|transformers, pytorch, sklearn|regression|
+| #  | Project Name                           | Objective                                               | Technologies                                         | Stack                        | Type                  |
+|----|----------------------------------------|---------------------------------------------------------|-----------------------------------------------------|------------------------------|-----------------------|
+| 1  | Customer Churn Prediction (Telecom)    | Predict customer churn in telecom industry               | `sklearn`, `keras`                                   | Classic ML + DL              | Binary Classification |
+| 2  | Age Estimation                         | Estimate a person’s age from images                      | `keras`                                              | Computer Vision               | Regression            |
+| 3  | Car Price Prediction                   | Predict car prices based on features                     | `sklearn`, `lightgbm`                                | Classic ML                    | Regression            |
+| 4  | California Housing Price Prediction    | Predict housing prices in California                     | `pyspark`                                            | Big Data, PySpark             | Regression            |
+| 5  | Customer Churn Prediction (Banking)    | Predict customer churn in the banking sector             | `sklearn`, `imblearn`, `scipy`                       | Classic ML                    | Binary Classification |
+| 6  | Taxi Order Prediction                  | Forecast future taxi orders                             | `pytorch`, `sklearn`, `statsmodels`, `joblib`        | Time Series                   | Regression            |
+| 7  | Hotel Booking Cancellation Prediction  | Predict booking cancellations for hotels                 | `sklearn`                                            | Classic ML                    | Binary Classification |
+| 8  | Star Surface Temperature Prediction    | Predict the surface temperature of stars                 | `sklearn`, `torch`                                   | Classic ML + DL               | Regression            |
+| 9  | Toxic Comments Classification          | Classify toxic comments from user input                  | `spacy`, `nltk`, `sklearn`, `transformers`, `catboost`| NLP                           | Binary Classification |
+| 10 | Tarif Recommendation                   | Recommend optimal tariffs based on customer data         | `sklearn`                                            | Classic ML                    | Binary Classification |
+| 11 | CEFR Subtitle Prediction               | Predict CEFR level of subtitles for language learners    | `nltk`, `sklearn`, `scipy`                           | NLP + Classic ML              | Multi Classification  |
+| 12 | Car Price Prediction (Kaggle)          | Kaggle competition to predict car prices                 | `sklearn`, `lightgbm`                                | Classic ML                    | Regression            |
+| 13 | Search Photo by Query                  | Search relevant photos based on a text query             | `transformers`, `pytorch`, `sklearn`                 | NLP + Computer Vision         | Regression            |
 
 
 
